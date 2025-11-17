@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tarih-i Cevdet, Mukaddime – TEI Transcription</title>
+        <author>Cevdet Paşa</author>
+        <respStmt>
+          <resp>Transcription and TEI encoding</resp>
+          <name>Elif Cebeci</name>
+        </respStmt>
+      </titleStmt>
+
+      <publicationStmt>
+        <p>For teaching purposes only. Not for publication.</p>
+      </publicationStmt>
+
+      <sourceDesc>
+        <p>Transcription of the Mukaddime section of Tarih-i Cevdet.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <p>
+      Mukaddeme<br/>
+      Târîh-i Cevdet’in mebde’i olan bin iki yüz seksen sekiz sene-i hicriyyesi Devlet-i
+      Aliyye’ce bir hadd-i fâsıl gibi olup andan sonra vukū‛âtın rengi tagayyür etmişdir.
+      Bir asrın vukū‛âtı ise a‛sâr-ı sâbıkanın i‛dâd ve tehyi’e ettiği ilel ve esbâb-ı
+      müteselsilenin netâyic ve müsebbebâtı idüğünden yazılacak vekāyi‛-i târîhiyye ne
+      makūle esbâbın âsârı idüğü bilinmek lâzım gelür. Binâ’en-alâ zâlik, maksûda
+      şürû‛dan mukaddem düvel-i sâlifenin ve ale’l-husûs Devlet-i Aliyye’nin vekāyi‛-i
+      külliyye ve ahvâl-i umûmiyye-i mâziyesi ve Mısır ve Kırım gibi kıta‛ât-i
+      mühimmesinin vekāyi‛-i meşhûresi ile târîh mutâla‛a idenlere lâzım olan ba‛z-ı
+      ma‛lûmât-ı mühimme ber-vech-i âtî icmâlen fasıl fasıl beyân olunmak münâsib
+      görülmüştür.
+      </p>
+    </body>
+  </text>
+</TEI>
